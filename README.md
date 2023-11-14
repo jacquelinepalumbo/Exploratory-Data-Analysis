@@ -1,4 +1,4 @@
-# Exploratory Data Analysis Projects
+# Exploratory Data Analysis Project
 
 <h1>
     <a href="https://www.dio.me/">
@@ -25,7 +25,8 @@
 
 ## <a name="objetivo">🔍 Objetivo </a> 
 
-O dataset utilizado neste notebook possibilitará uma analise comportamental dos hábitos do consumidor sobre artigos esportivos. Nossos dados são estruturados, onde foram extraídos de um banco de dados da plataforma Kaggle. Trataremos um modelo em aprendizado supervisionado, já que este modelo é construído a partir de um dataset, que são apresentados para um algoritmo na forma de entrada e saída desejada.
+O dataset utilizado neste notebook possibilitará uma analise comportamental dos hábitos do consumidor sobre artigos esportivos. Nossos dados são estruturados, onde foram extraídos de um banco de dados da plataforma Kaggle. 
+Trataremos um modelo em aprendizado supervisionado, já que este modelo é construído a partir de um dataset, que são apresentados para um algoritmo na forma de entrada e saída desejada.
 
 ## <a name="versions">🔨 Ferramentas Utilizadas </a>
 
