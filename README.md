@@ -1,16 +1,16 @@
 # Exploratory Data Analysis Project With Python
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=LinkedIn&logoColor=30A3DC)](https://www.linkedin.com/in/jacqueline-ribeiro-743876247/)
 
+ ## <a name="contributors"> 💬 Contributors</a>
 
- ## <a name="contributors"> 💬 Contribuições</a>
-
- Este é um projeto feito para a comunidade, então sinta-se livre para contribuir.
+This is a project made for the community, so feel free to contribute.
  
- Além disso, você também pode contribuir:
+In addition, you can also contribute:
  
-⚠️ Ajudando, respondendo ou compartilhando o seu trabalho comigo! 
+⚠️ Helping, responding or sharing your work with me! 
 
-⭐ Adicionando aos favoritos! 
+⭐ Adding to favorites!
 
 
 
@@ -21,4 +21,4 @@
 ---
 
 
-<div align="center">Feito com muita dedicação por ❤️ <a href="https://github.com/jacquelinepalumbo">Jacqueline</a>.</div>
+<div align="center">By ❤️ <a href="https://github.com/jacquelinepalumbo">Jacqueline</a>.</div>
