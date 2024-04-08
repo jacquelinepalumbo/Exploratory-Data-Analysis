@@ -9,7 +9,7 @@ In addition, you can also contribute:
  
 ⚠️ Helping, responding or sharing your work with me! 
 
-⭐ Adding to favorites!
+⭐ Adding stars!
 
 
 
