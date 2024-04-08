@@ -2,7 +2,7 @@
 
 <h1>
     <a href="https://www.dio.me/">
-     <img align="center" width="80px" src="[https://image.slidesharecdn.com/settingupmvpexperiments-130415164224-phpapp02/85/designing-mvp-experiments-13-638.jpg?cb=1668354544](https://www.google.com.br/url?sa=i&url=https%3A%2F%2Ftowardsdatascience.com%2Ffour-common-pitfalls-to-avoid-in-exploratory-data-analysis-85d822dd5e34&psig=AOvVaw2e-oKNd0-MXRw_J-pN5Sp7&ust=1712625135647000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNjLwfK4sYUDFQAAAAAdAAAAABAE)"></a>
+     <img align="center" width="80px" src="(https://www.google.com.br/url?sa=i&url=https%3A%2F%2Ftowardsdatascience.com%2Ffour-common-pitfalls-to-avoid-in-exploratory-data-analysis-85d822dd5e34&psig=AOvVaw2e-oKNd0-MXRw_J-pN5Sp7&ust=1712625135647000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNjLwfK4sYUDFQAAAAAdAAAAABAE)"></a>
     <span> Minimum Viable Product</span>
 </h1>
 
