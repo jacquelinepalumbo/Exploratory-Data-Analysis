@@ -2,7 +2,7 @@
 
 <h1>
     <a href="https://www.dio.me/">
-     <img align="center" width="80px" src=https://image.slidesharecdn.com/settingupmvpexperiments-130415164224-phpapp02/85/designing-mvp-experiments-13-638.jpg?cb=1668354544"></a>
+     <img align="center" width="80px" src=https://miro.medium.com/v2/resize:fit:950/1*TQ8i0cxsJhNoRKW7iJW2PQ.png"></a>
     <span> Minimum Viable Product</span>
 </h1>
 
